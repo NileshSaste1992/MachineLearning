@@ -1,4 +1,4 @@
-# MachineLearning
+# Machine Learning
 
 Thanks for visiting!
 
