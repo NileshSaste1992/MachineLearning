@@ -1,4 +1,4 @@
-#Machine Learning
+# Machine Learning
 
 Thanks for visiting!
 
@@ -6,30 +6,30 @@ Please have a look on regularly used machine learning algorithms with code examp
 
 The repository includes:
 
--- KMeans Clustering
+* KMeans Clustering
 
--- K-Fold Cross Validation
+* K-Fold Cross Validation
 
--- K Nearest Neighbours
+* K Nearest Neighbours
 
--- Decision Tree and Random Forest
+* Decision Tree and Random Forest
 
--- Principle Component Analysis
+* Principle Component Analysis
 
--- Support Vector Machine
+* Support Vector Machine
 
--- XGBoost
+* XGBoost
 
--- Naive Bay's
+* Naive Bay's
 
--- User based collaborative filtering
+* User based collaborative filtering
 
--- Item based collaborative filtering
+* Item based collaborative filtering
 
--- Tensorflow- Deep learning
+* Tensorflow- Deep learning
 
--- Convolutional Neural network using keras
+* Convolutional Neural network using keras
 
--- Recurrent Neural Network using keras
+* Recurrent Neural Network using keras
 
--- Transfer Learning
+* Transfer Learning
